@@ -1,0 +1,45 @@
+baseURL = "https://drkndl.github.io/"
+languageCode = "en-uk"
+title = "Drishika Nadella"
+theme = "ink"
+
+customCSS = ["css/custom.css"]
+
+[params]
+  description = "MSc student at University of Heidelberg"
+  author = "Drishika Nadella"
+  homeTitle = "Drishika Nadella"
+  homeSubtitle = "MSc student at University of Heidelberg"
+  homeBio = ""
+  homeImage = "/images/Drishika_Nadella.jpeg"
+  favicon = "/favicon.ico"
+  recentPostsCount = 3
+
+  [[params.socialLinks]]
+    name = "GitHub"
+    url = "https://github.com/drkndl"
+    external = true
+  [[params.socialLinks]]
+    name = "OrcID"
+    url = "https://orcid.org/0000-0003-4942-6873"
+    external = true
+  [[params.socialLinks]]
+    name = "Email"
+    url = "mailto:drishika.nadella@stud.uni-heidelberg.de"
+  # [[params.socialLinks]]
+  #  name = "Blog"
+  #  url = "/posts/"
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Publications"
+    url = "/posts/"
+    weight = 3
