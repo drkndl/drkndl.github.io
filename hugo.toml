@@ -3,14 +3,12 @@ languageCode = "en-uk"
 title = "Drishika Nadella"
 theme = "ink"
 
-customCSS = ["css/custom.css"]
-
 [params]
   description = "MSc student at University of Heidelberg"
   author = "Drishika Nadella"
   homeTitle = "Drishika Nadella"
   homeSubtitle = "MSc student at University of Heidelberg"
-  homeBio = ""
+  homeBio = "Hi, I'm Drishika. I'm a MSc student in Physics at Heidelberg University. I am interested in planet formation. For my MSc thesis, I investigated the impact of late infall events on protoplanetary disks."
   homeImage = "/images/Drishika_Nadella.jpeg"
   favicon = "/favicon.ico"
   recentPostsCount = 3
@@ -20,7 +18,7 @@ customCSS = ["css/custom.css"]
     url = "https://github.com/drkndl"
     external = true
   [[params.socialLinks]]
-    name = "OrcID"
+    name = "ORCiD"
     url = "https://orcid.org/0000-0003-4942-6873"
     external = true
   [[params.socialLinks]]
@@ -41,5 +39,6 @@ customCSS = ["css/custom.css"]
     weight = 1
   [[menu.main]]
     name = "Publications"
-    url = "/posts/"
+    url = "/publications/"
     weight = 3
+

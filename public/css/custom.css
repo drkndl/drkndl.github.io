@@ -1,3 +1,5 @@
 .hero-image {
-  filter: grayscale(0%) !important;
+  width: 300px;
+  height: 300px;
+  filter: grayscale(0%);
 }
