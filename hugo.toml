@@ -8,7 +8,7 @@ theme = "ink"
   author = "Drishika Nadella"
   homeTitle = "Drishika Nadella"
   homeSubtitle = "MSc student at University of Heidelberg"
-  homeBio = "Hi, I'm Drishika. I'm a MSc student in Physics at Heidelberg University. I am interested in planet formation. For my MSc thesis, I investigated the impact of late infall events on protoplanetary disks."
+  homeBio = "Hi, I'm Drishika. I'm a MSc student in Physics at Heidelberg University. I am interested in planet formation. For my MSc thesis with Prof. Kees Dullemond, I investigated the impact of late infall events on protoplanetary disks. You can contact me at drishika.nadella @ stud.uni-heidelberg.de"
   homeImage = "/images/Drishika_Nadella.jpeg"
   favicon = "/favicon.ico"
   recentPostsCount = 3
@@ -24,6 +24,9 @@ theme = "ink"
   [[params.socialLinks]]
     name = "Email"
     url = "mailto:drishika.nadella@stud.uni-heidelberg.de"
+  [[params.socialLinks]]
+    name = "ADS"
+    url = "https://ui.adsabs.harvard.edu/search/q=author%3A%22Nadella%2C%20Drishika%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   # [[params.socialLinks]]
   #  name = "Blog"
   #  url = "/posts/"
@@ -33,12 +36,12 @@ theme = "ink"
     name = "Research"
     url = "/research/"
     weight = 2
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 1
-  [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
-    weight = 3
+  # [[menu.main]]
+  #  name = "About"
+  #  url = "/about/"
+  #  weight = 1
+  # [[menu.main]]
+  #  name = "Publications"
+  #  url = "/publications/"
+  #  weight = 3
 
