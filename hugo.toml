@@ -3,6 +3,10 @@ languageCode = "en-uk"
 title = "Drishika Nadella"
 theme = "ink"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   description = "MSc student at University of Heidelberg"
   author = "Drishika Nadella"
