@@ -8,11 +8,11 @@ theme = "ink"
     dir = ':cacheDir/images'
 
 [params]
-  description = "MSc student at University of Heidelberg"
+  description = "PhD student at University of Groningen"
   author = "Drishika Nadella"
   homeTitle = "Drishika Nadella"
-  homeSubtitle = "MSc student at University of Heidelberg"
-  homeBio = "Hi, I'm Drishika. I'm a MSc student in Physics at Heidelberg University. I am interested in planet formation. For my MSc thesis with Prof. Kees Dullemond, I investigated the impact of late infall events on protoplanetary disks. You can contact me at drishika.nadella @ stud.uni-heidelberg.de"
+  homeSubtitle = "PhD student at University of Groningen"
+  homeBio = "Hi, I'm Drishika. I'm a PhD student in astronomy at Rijksuniversitet Groningen, where I am working on understanding the gas and dust composition in protoplanetary disks with JWST. For my MSc thesis with Prof. Kees Dullemond, I investigated the impact of late infall events on protoplanetary disks. You can contact me at nadella @ astro.rug.nl"
   homeImage = "/images/Drishika_Nadella.jpeg"
   favicon = "/favicon.ico"
   recentPostsCount = 3
@@ -27,7 +27,7 @@ theme = "ink"
     external = true
   [[params.socialLinks]]
     name = "Email"
-    url = "mailto:drishika.nadella@stud.uni-heidelberg.de"
+    url = "mailto:nadella@astro.rug.nl"
   [[params.socialLinks]]
     name = "ADS"
     url = "https://ui.adsabs.harvard.edu/search/q=author%3A%22Nadella%2C%20Drishika%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
